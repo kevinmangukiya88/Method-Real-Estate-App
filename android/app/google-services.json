@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "271893643082",
+    "firebase_url": "https://method-ios-alpha-default-rtdb.firebaseio.com",
+    "project_id": "method-ios-alpha",
+    "storage_bucket": "method-ios-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271893643082:android:806b45c74577c51f5dcbb3",
+        "android_client_info": {
+          "package_name": "com.method.agentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271893643082-oe22t8j6uovqqrkikpoitslubf42c5qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5TCp4ywOCBz0s8SVLqocn4duT6gsSC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271893643082-oe22t8j6uovqqrkikpoitslubf42c5qj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271893643082-3fb5p5u5igqq42akquqh5ebuga0ateoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ourmethod.agentapp",
+                "app_store_id": "1605826416"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271893643082:android:e5fc34d89fc459b35dcbb3",
+        "android_client_info": {
+          "package_name": "com.real.estate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271893643082-oe22t8j6uovqqrkikpoitslubf42c5qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5TCp4ywOCBz0s8SVLqocn4duT6gsSC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271893643082-oe22t8j6uovqqrkikpoitslubf42c5qj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271893643082-3fb5p5u5igqq42akquqh5ebuga0ateoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ourmethod.agentapp",
+                "app_store_id": "1605826416"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

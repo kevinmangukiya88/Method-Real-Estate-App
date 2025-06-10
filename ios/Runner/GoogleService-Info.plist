@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>271893643082-3fb5p5u5igqq42akquqh5ebuga0ateoq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.271893643082-3fb5p5u5igqq42akquqh5ebuga0ateoq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT-4RkSZEug04NfJu8wqJSziLNlHBCswM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>271893643082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ourmethod.agentapp</string>
+	<key>PROJECT_ID</key>
+	<string>method-ios-alpha</string>
+	<key>STORAGE_BUCKET</key>
+	<string>method-ios-alpha.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:271893643082:ios:8ff004632b209f955dcbb3</string>
+	<key>DATABASE_URL</key>
+	<string>https://method-ios-alpha-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
